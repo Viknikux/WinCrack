@@ -9,4 +9,5 @@ Currently WinCrack has the ability to swap sethc.exe (Sticky keys) for cmd.exe (
 (Tip: use command "netplwiz" to easily manage Users without loging in or having administrator priviliges) 
   
 It also includes the original TASKMGR from 1996 in place of utilman.exe (accesibility shortcut) as it is lightweight and unrestricted (can kill unkillable procceses)   
+  
 If you found this repository useful, please Star it to support futher development as more features are underway!
