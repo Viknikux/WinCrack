@@ -1,6 +1,6 @@
 # WinCrack 🛠️
 
-**WinCrack** is a lightweight, low-footprint utility based on the Windows Preinstallation Environments (WinPE). It provides system administrators and technicians with offline system maintenance capabilities, administrative access recovery, and environment troubleshooting tools directly from a bootable ISO.
+**WinCrack** is a lightweight, low-footprint utility based on the Windows Preinstallation Environment (WinPE). It provides system administrators and technicians with offline system maintenance capabilities, administrative access recovery, and environment troubleshooting tools directly from a bootable ISO.
 
 > ⚠️ **Disclaimer:** This software is developed strictly for administrative recovery, system repair, and educational purposes. It is intended for use by authorized system owners and technicians. The developer assumes no responsibility or liability for unauthorized usage, data loss, or misapplication.
 
